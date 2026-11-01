@@ -1,0 +1,1 @@
+# Energy-Benchmark-WebP-vs.-JPEG-XL
